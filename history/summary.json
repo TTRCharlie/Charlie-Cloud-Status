@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/pma.egsmp.eu.ico",
     "slug": "eg-smp-phpmyadmin",
     "status": "up",
-    "uptime": "97.67%",
-    "uptimeDay": "97.67%",
-    "uptimeWeek": "97.67%",
-    "uptimeMonth": "97.67%",
-    "uptimeYear": "97.67%",
-    "time": 1113,
-    "timeDay": 1113,
-    "timeWeek": 1113,
-    "timeMonth": 1113,
-    "timeYear": 1113,
-    "dailyMinutesDown": {
-      "2023-02-01": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1125,
+    "timeDay": 1125,
+    "timeWeek": 1125,
+    "timeMonth": 1125,
+    "timeYear": 1125,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Charlie Cloud Git",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.charlie-cloud.hu.ico",
     "slug": "charlie-cloud-git",
     "status": "up",
-    "uptime": "97.67%",
-    "uptimeDay": "97.67%",
-    "uptimeWeek": "97.67%",
-    "uptimeMonth": "97.67%",
-    "uptimeYear": "97.67%",
-    "time": 1035,
-    "timeDay": 1035,
-    "timeWeek": 1035,
-    "timeMonth": 1035,
-    "timeYear": 1035,
-    "dailyMinutesDown": {
-      "2023-02-01": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1060,
+    "timeDay": 1060,
+    "timeWeek": 1060,
+    "timeMonth": 1060,
+    "timeYear": 1060,
+    "dailyMinutesDown": {}
   },
   {
     "name": "https://ip.charlie-cloud.hu",
@@ -45,18 +41,38 @@
     "icon": "https://icons.duckduckgo.com/ip3/ip.charlie-cloud.hu.ico",
     "slug": "https-ip-charlie-cloud-hu",
     "status": "up",
-    "uptime": "98.63%",
-    "uptimeDay": "98.63%",
-    "uptimeWeek": "98.63%",
-    "uptimeMonth": "98.63%",
-    "uptimeYear": "98.63%",
-    "time": 966,
-    "timeDay": 966,
-    "timeWeek": 966,
-    "timeMonth": 966,
-    "timeYear": 966,
+    "uptime": "98.64%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "98.64%",
+    "uptimeMonth": "98.64%",
+    "uptimeYear": "98.64%",
+    "time": 1022,
+    "timeDay": 1022,
+    "timeWeek": 1022,
+    "timeMonth": 1022,
+    "timeYear": 1022,
     "dailyMinutesDown": {
       "2023-02-01": 4
+    }
+  },
+  {
+    "name": "Charlie Cloud Storage",
+    "url": "$cloud_storage",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "charlie-cloud-storage",
+    "status": "down",
+    "uptime": "6.50%",
+    "uptimeDay": "6.50%",
+    "uptimeWeek": "6.50%",
+    "uptimeMonth": "6.50%",
+    "uptimeYear": "6.50%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-02-01": 0
     }
   }
 ]

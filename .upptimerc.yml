@@ -9,6 +9,8 @@ sites:
     url: https://git.charlie-cloud.hu
   - name: https://ip.charlie-cloud.hu
     url: https://ip.charlie-cloud.hu
+  - name: Charlie Cloud Storage
+    url: $cloud_storage
 
 assignees: # Users to assign downtime issues (optional)
   - TTRCharlie

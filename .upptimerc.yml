@@ -7,13 +7,16 @@ sites:
     url: https://pma.egsmp.eu  
   - name: Charlie Cloud Git
     url: https://git.charlie-cloud.hu
+
+assignees: # Users to assign downtime issues (optional)
+  - TTRCharlie
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.charlie-cloud.hu
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Charlie Cloud Status
   introTitle: "Charlie Cloud Status"
   introMessage: "This is the Charlie Cloud Site uptime status page"
   navbar:
@@ -26,6 +29,7 @@ status-website:
   metaTags:
     - name: "robots"
       content: "noindex"
+  theme: night
 
 status-page:
   robotsText: "User-agent: * \n Disallow: /"

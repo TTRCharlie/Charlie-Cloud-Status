@@ -7,6 +7,8 @@ sites:
     url: https://pma.egsmp.eu  
   - name: Charlie Cloud Git
     url: https://git.charlie-cloud.hu
+  - name: https://ip.charlie-cloud.hu
+    url: https://ip.charlie-cloud.hu
 
 assignees: # Users to assign downtime issues (optional)
   - TTRCharlie

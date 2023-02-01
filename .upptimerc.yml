@@ -23,6 +23,12 @@ status-website:
       href: https://github.com/TTRCharlie/Charlie-Cloud-Status.git
     - title: Server uptime
       href: https://uptime.charlie-cloud.hu
+  metaTags:
+    - name: "robots"
+      content: "noindex"
+
+status-page:
+  robotsText: "User-agent: * \n Disallow: /"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

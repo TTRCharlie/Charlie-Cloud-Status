@@ -10,7 +10,7 @@ sites:
   - name: https://ip.charlie-cloud.hu
     url: https://ip.charlie-cloud.hu
   - name: Charlie Cloud Storage
-    url: $cloud_storage
+    url: $CLOUD_STORAGE
 
 assignees: # Users to assign downtime issues (optional)
   - TTRCharlie

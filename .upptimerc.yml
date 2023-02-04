@@ -5,13 +5,13 @@ repo: Charlie-Cloud-Status # The name of this repository
 sites:
   - name: EG-SMP phpmyadmin
     url: https://pma.egsmp.eu  
-  - name: Charlie Cloud Git
+  - name: Gitea
     url: https://git.charlie-cloud.hu
   - name: https://ip.charlie-cloud.hu
     url: https://ip.charlie-cloud.hu
-  - name: Charlie Cloud Storage
+  - name: Cloud Storage
     url: $CLOUD_STORAGE
-  - name: Charlie Cloud Web panel
+  - name: Web panel
     url: $WEBHOST_PANEL
 assignees: # Users to assign downtime issues (optional)
   - TTRCharlie

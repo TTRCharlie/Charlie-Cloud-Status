@@ -27,7 +27,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
+    - title: Source
       href: https://github.com/TTRCharlie/Charlie-Cloud-Status.git
     - title: Server uptime
       href: https://uptime.charlie-cloud.hu

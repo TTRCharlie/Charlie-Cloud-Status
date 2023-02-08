@@ -34,7 +34,7 @@ status-website:
   metaTags:
     - name: "robots"
       content: "noindex"
-  theme: night
+  theme: dark
 
 status-page:
   robotsText: "User-agent: * \n Disallow: /"

@@ -11,7 +11,7 @@ sites:
     url: https://ip.charlie-cloud.hu
   - name: Cloud Storage
     url: $CLOUD_STORAGE
-  - name: Web panel
+  - name: Web Panel
     url: $WEBHOST_PANEL
 assignees: # Users to assign downtime issues (optional)
   - TTRCharlie

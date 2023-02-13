@@ -38,6 +38,10 @@ status-website:
 
 status-page:
   robotsText: "User-agent: * \n Disallow: /"
+  
+commitMessages:
+  commitAuthorName: "Upptime Bot"
+  commitAuthorEmail: "upptime@koj.co"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

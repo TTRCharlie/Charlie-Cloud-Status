@@ -13,10 +13,6 @@ sites:
     url: $CLOUD_STORAGE
   - name: Web Panel
     url: $WEBHOST_PANEL
-  - name: asd
-    check: "tcp-ping"
-    url: 78.46.193.222
-    port: 25565
 assignees: # Users to assign downtime issues (optional)
   - TTRCharlie
 status-website:

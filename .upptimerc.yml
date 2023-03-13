@@ -20,7 +20,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.charlie-cloud.hu
   # baseUrl: /your-repo-name
-  logoUrl: https://mirror.ttr3.tk/Web/2019/10/28205047/73458877_567488514057458_2491980556745572352_n.jpg
+  logoUrl: https://charlie-cloud.s3.eu-central-1.amazonaws.com/73458877_567488514057458_2491980556745572352_n.jpeg
   name: Charlie Cloud Status
   introTitle: "Charlie Cloud Status"
   introMessage: "This is the Charlie Cloud Site uptime status page"
